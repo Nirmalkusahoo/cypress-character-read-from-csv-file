@@ -8,8 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "cy:open": "cypress open",
-    "cy:run": "cypress run",
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run",
     "convertCSVtoJSON": "ts-node cypress/testData/convertCSVtoJSON.ts"
   },
   "private": true,
