@@ -7,7 +7,10 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "convertCSVtoJSON": "ts-node cypress/testData/convertCSVtoJSON.ts"
   },
   "private": true,
   "dependencies": {
@@ -41,6 +44,7 @@
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
-    "typescript": "~3.9.5"
+    "typescript": "~3.9.5",
+    "papaparse": "5.3.0"
   }
 }
