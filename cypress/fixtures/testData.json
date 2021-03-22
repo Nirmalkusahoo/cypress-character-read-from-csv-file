@@ -1,0 +1,165 @@
+[
+    {
+        "key": "Char1",
+        "value": "-"
+    },
+    {
+        "key": "Char2",
+        "value": "!"
+    },
+    {
+        "key": "Char3",
+        "value": "#"
+    },
+    {
+        "key": "Char4",
+        "value": "$"
+    },
+    {
+        "key": "Char5",
+        "value": "%"
+    },
+    {
+        "key": "Char6",
+        "value": "&"
+    },
+    {
+        "key": "Char7",
+        "value": "'"
+    },
+    {
+        "key": "Char8",
+        "value": "("
+    },
+    {
+        "key": "Char9",
+        "value": ")"
+    },
+    {
+        "key": "Char10",
+        "value": "*"
+    },
+    {
+        "key": "Char11",
+        "value": "+"
+    },
+    {
+        "key": "Char12",
+        "value": ","
+    },
+    {
+        "key": "Char13",
+        "value": "/"
+    },
+    {
+        "key": "Char14",
+        "value": "0"
+    },
+    {
+        "key": "Char15",
+        "value": "1"
+    },
+    {
+        "key": "Char16",
+        "value": "2"
+    },
+    {
+        "key": "Char17",
+        "value": "3"
+    },
+    {
+        "key": "Char18",
+        "value": "4"
+    },
+    {
+        "key": "Char19",
+        "value": "5"
+    },
+    {
+        "key": "Char20",
+        "value": "6"
+    },
+    {
+        "key": "Char21",
+        "value": "7"
+    },
+    {
+        "key": "Char22",
+        "value": "8"
+    },
+    {
+        "key": "Char23",
+        "value": "9"
+    },
+    {
+        "key": "Char24",
+        "value": ":"
+    },
+    {
+        "key": "Char25",
+        "value": ";"
+    },
+    {
+        "key": "Char26",
+        "value": "<"
+    },
+    {
+        "key": "Char27",
+        "value": "="
+    },
+    {
+        "key": "Char28",
+        "value": ">"
+    },
+    {
+        "key": "Char29",
+        "value": "?"
+    },
+    {
+        "key": "Char30",
+        "value": "@"
+    },
+    {
+        "key": "Char21",
+        "value": "["
+    },
+    {
+        "key": "Char22",
+        "value": "\\"
+    },
+    {
+        "key": "Char23",
+        "value": "]"
+    },
+    {
+        "key": "Char24",
+        "value": "^"
+    },
+    {
+        "key": "Char25",
+        "value": "-"
+    },
+    {
+        "key": "Char26",
+        "value": "`"
+    },
+    {
+        "key": "Char27",
+        "value": "{"
+    },
+    {
+        "key": "Char28",
+        "value": "|"
+    },
+    {
+        "key": "Char29",
+        "value": "}"
+    },
+    {
+        "key": "Char30",
+        "value": "~"
+    },
+    {
+        "key": ""
+    }
+]
